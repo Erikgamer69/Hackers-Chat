@@ -1,0 +1,4 @@
+¿How to use this python script?
+
+First execute chat_server to have a server to connect and choose the IP where you want to host the chat
+After execute chat_server execute chat_client and select your NICKNAME and the IP to connect the servers chat
